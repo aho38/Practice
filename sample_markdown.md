@@ -26,6 +26,11 @@ In order to create horizontal rule lines you can use three or more hyphens - - -
 **Bold** text is created using ** text **
 *Italicized* text is created using * text *
 
+### Hyperlinks ###
+You can use an inline link by using \[I'm an inline-style link]\(https://www.google.com) which will appear as [I'm an inline-style link](https://www.google.com)
+
+You can also include links using angle brackets \<https://www.google.com> which appears as <https://www.google.com> .
+
 ### Adding Images ###
 You will be given a seperate repository for all of your images. In this repository all of our images are housed in the imgs file and images are incorporated using the imgs folder
 
