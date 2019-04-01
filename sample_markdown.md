@@ -27,4 +27,8 @@ In order to create horizontal rule lines you can use three or more hyphens - - -
 *Italicized* text is created using * text *
 
 ### Adding Images ###
-You will be given a seperate repository for all of your images. In this repository all of our images are housed in the imgs file and images are incorporated using "img
+You will be given a seperate repository for all of your images. In this repository all of our images are housed in the imgs file and images are incorporated using the imgs folder
+
+ Here we use the following code to display the image \![alt text]\(imgs/repolink.png "Title")
+ 
+ ![alt text](imgs/repolink.png "Title")
