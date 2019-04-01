@@ -18,3 +18,13 @@ size of the header. The hashtags require a space after in order to signify a hea
 
 ###Header3###
 ### Header3 ###
+
+In order to create horizontal rule lines you can use three or more hyphens - - -
+
+----
+
+**Bold** text is created using ** text **
+*Italicized* text is created using * text *
+
+### Adding Images ###
+You will be given a seperate repository for all of your images. In this repository all of our images are housed in the imgs file and images are incorporated using "img
