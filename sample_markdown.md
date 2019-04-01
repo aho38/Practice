@@ -31,4 +31,4 @@ You will be given a seperate repository for all of your images. In this reposito
 
  Here we use the following code to display the image \![alt text]\(imgs/repolink.png "Title")
  
- ![alt text](imgs/plane.jpeg "Title")
+ ![plane](imgs/plane.jpg "Plane")
